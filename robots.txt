@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://a.luxeybf.cn/sitemap.xml
